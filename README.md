@@ -1,0 +1,2 @@
+# alooma
+Single Page
